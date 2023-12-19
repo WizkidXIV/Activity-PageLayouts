@@ -1,0 +1,16 @@
+span {
+    display: inline-block;
+}
+
+#mini-layout {
+    display: inline-block;
+}
+
+body {
+    text-align: center;
+}
+
+.animal-pic {
+    height: 100px;
+    max-width: 100%;
+}
